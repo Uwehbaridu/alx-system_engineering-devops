@@ -1,2 +1,2 @@
 #!/bib/bash
-echo "hello user" $USER
+echo $USER "hello user"
